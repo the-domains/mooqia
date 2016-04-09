@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mooqia]]></title>
+        <description><![CDATA[Mooqia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 12:30:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined5fd92f6c-847e-4b9d-b69c-5db49b0f9154/index.html</link>
+            <guid isPermaLink="false">5fd92f6c-847e-4b9d-b69c-5db49b0f9154</guid>
+            <pubDate>Sat, 09 Apr 2016 12:30:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
